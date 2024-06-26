@@ -14,7 +14,7 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre Dorks, estruturar o conte
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e útil, demonstrando como as IAs Genativas podem ser poderosas ferramentas na disseminação de conhecimento.
 
-[LINK PARA O E-BOOK AQUI](https://github.com/carlogia7/DIO-Bootcamp/tree/main/Ebook%20com%20IA/output)
+[LINK PARA O E-BOOK AQUI](https://github.com/carlogia7/lab-DIO-Bootcamp/blob/main/Ebook%20-%20dorks.pdf)
 
 ## 💭 Reflexão (Opcional)
 Criar este e-book foi uma experiência diferente que mostrou para mim ainda mais o potencial das IAs Generativas.
